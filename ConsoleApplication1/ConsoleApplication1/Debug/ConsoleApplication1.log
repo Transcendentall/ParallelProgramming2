@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (ConsoleApplication1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  code_posled_and_paral.cpp
+C:\Users\hp\source\repos\ConsoleApplication1\ConsoleApplication1\code_posled_and_paral.cpp(155,1): error C3016: i: переменная индекса в операторе For директивы OpenMP должна иметь тип целого со знаком
+C:\Users\hp\source\repos\ConsoleApplication1\ConsoleApplication1\code_posled_and_paral.cpp(185,12): warning C4244: return: преобразование "double" в "unsigned int", возможна потеря данных
